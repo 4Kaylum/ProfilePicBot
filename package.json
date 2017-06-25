@@ -1,0 +1,17 @@
+{
+  "name": "kikbot",
+  "version": "0.0.1",
+  "description": "This is Kik bot that is designed to take inputs from the user and store them, as a simple post-it note kind of thing.",
+  "main": "_Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kikinteractive/kik": "^2.2.1",
+    "image-downloader": "^3.2.2",
+    "imgur-node-api": "^0.1.0",
+    "wait.for": "^0.6.6"
+  }
+}
